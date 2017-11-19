@@ -28,7 +28,7 @@ DEBUG = True
 
 #When distributing this as an application,
 #ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com', 'django-girls-skim423.c9users.io']
+ALLOWED_HOSTS = ['127.0.0.1', 'skim423.pythonanywhere.com', 'django-girls-skim423.c9users.io']
 
 # Application definition
 
